@@ -15,9 +15,17 @@ Here are some ideas to get you started:
 
 # Hi, I'm Vitosavero Avila Wibisono 👋
 
+**MS FinTech Student · Software QA Professional · Aspiring FinTech Analyst**
+
+📍 University of Connecticut
+💹 Financial Analysis · Generative AI · Python/SQL · Java
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-handle/](https://www.linkedin.com/in/vitosaveroaw/))
 [![vitosavero.wibisono@uconn.edu](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitosavero.wibisono@uconn.edu)
 
+---
+
+## About Me
 I'm a graduate student in the MS FinTech program at UConn, with a background in software quality assurance from the logistics industry. I'm interested in the intersection of finance, technology, and data-driven decision making.
 
 🎓 **MS FinTech @ University of Connecticut**
