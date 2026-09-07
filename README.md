@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 **MS FinTech Student · Software QA Professional · Aspiring FinTech Analyst**
 
 📍 University of Connecticut
+
 💹 Financial Analysis · Generative AI · Python/SQL · Java
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-handle/](https://www.linkedin.com/in/vitosaveroaw/))
